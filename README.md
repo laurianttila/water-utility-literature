@@ -1,2 +1,2 @@
 # water-utility-literature
-Zotero import of academic research related to water utilities
+Zotero importable file of academic research related to water utilities
