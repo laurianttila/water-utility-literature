@@ -1,2 +1,9 @@
-# water-utility-literature
-Zotero importable file of academic research related to water utilities
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+# Academic literature regarding water utility cybersecurity
+Includes academic research related to water utilities used for a Systematic Literature Review
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
